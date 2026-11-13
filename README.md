@@ -1,4 +1,4 @@
-# Stryx
+# Stryx (Not finished)
 
 Stryx is a web portal featuring an interface inspired by web browsers. From the central bar, you can search within the site, perform a web search, or enter a URL to open it via Ultraviolet. The home page provides access to games, music, movies, and settings, presented in a unique layout with a space-themed background and an animated introduction.
 
@@ -15,3 +15,5 @@ Stryx is a web portal featuring an interface inspired by web browsers. From the 
 The design, visual identity, and interface of **Stryx** were developed by **Luminex** with assistance from **Gideon**. If you share this project or reference its design, please credit Stryx and include a link to this repository.
 
 Web navigation is powered by **Ultraviolet**, a project by **Titanium Network**. Third-party integrations retain their own respective credits and licenses.
+
+
