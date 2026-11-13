@@ -1,31 +1,17 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+# Stryx
 
-<h1 align="center">Ultraviolet-App</h1>
+Stryx is a web portal featuring an interface inspired by web browsers. From the central bar, you can search within the site, perform a web search, or enter a URL to open it via Ultraviolet. The home page provides access to games, music, movies, and settings, presented in a unique layout with a space-themed background and an animated introduction.
 
-> [!CAUTION]
-> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Scramjet](https://github.com/MercuryWorkshop/scramjet). An example application setup can be found [here](https://github.com/MercuryWorkshop/Scramjet-App).
+## What you can do in Stryx
 
-The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+- **Search and browse.** Use the central bar or the address bar to search the web. Local suggestions allow you to jump directly to a game, a song, or a specific section of the site.
+- **Explore the Arcade.** Find games by name, category, or provider. Compatible titles open directly within Stryx.
+- **Listen to music.** Browse Spotify’s selection by song or artist. You can also save song requests within your browser.
+- **Explore Movies.** Browse through movies and series, complete with posters, synopses, and genre-based filters. Save titles to **My List** and check the playback options available for each entry.
+- **Customize the interface.** Choose between English and Spanish, and adjust the animated background via the settings menu.
 
-## Deployment
+## Authorship and Credits
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Run-on-Replit)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-on-Railway)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-to-Koyeb)
+The design, visual identity, and interface of **Stryx** were developed by **Luminex** with assistance from **Gideon**. If you share this project or reference its design, please credit Stryx and include a link to this repository.
 
-If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-via-terminal).
-
-Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
-
-Support and updates can be found in our [Discord Server](discord.gg/unblock).
-
-> [!IMPORTANT]  
-> Until deployed on a domain with a valid SSL certificate, Firefox will not be able to load the site. Use chromium for testing on localhost
-
-### HTTP Transport
-
-The example uses [EpoxyTransport](https://github.com/MercuryWorkshop/EpoxyTransport) to fetch proxied data encrypted.
-
-You may also want to use [CurlTransport](https://github.com/MercuryWorkshop/CurlTransport), a different way of fetching encrypted data, or [Bare-Client](https://github.com/MercuryWorkshop/Bare-as-module3), the legacy (unencrypted!) transport.
-
-See the [bare-mux](https://github.com/MercuryWorkshop/bare-mux) documentation for more information.
+Web navigation is powered by **Ultraviolet**, a project by **Titanium Network**. Third-party integrations retain their own respective credits and licenses.
